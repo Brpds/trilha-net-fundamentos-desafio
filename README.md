@@ -3,8 +3,8 @@ www.dio.me
 
 # Observação sobre versões:
 
-A máquina em que codifiquei utiliza a versão 8.0+ do .NET. Logo, foi necessário alterar o arquivo DesafioFundamentos.csproj, na tag <TargetFramework>net8.0</TargetFramework> a versão de 6.0 para 8.0. Caso sua versão seja outra, altere apenas o primeiro número após o net em target framework para a sua versão:
-<TargetFramework>netX.0</TargetFramework> <- X será o número da sua versão
+A máquina em que codifiquei utiliza a versão 8.0+ do .NET. Logo, foi necessário alterar o arquivo DesafioFundamentos.csproj, na tag TargetFramework, a versão de 6.0 para 8.0. Caso sua versão seja outra, altere apenas o primeiro número após o net em target framework para a sua versão:
+TargetFramework :netX.0 <- X será o número da sua versão
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
